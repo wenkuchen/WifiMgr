@@ -1,3 +1,8 @@
+/**
+https://github.com/khoih-prog/ESP_DoubleResetDetector.git
+useful to reset wifi config 
+**/
+
 /*******************************************************************
     Example project using wifimanager to config parts of your project For the ESP32
 
